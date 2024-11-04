@@ -58,7 +58,7 @@ Semiconductor chips (also known as integrated circuits or ICs) are crucial compo
 2.PAAS: Platform as a Service
 3.SAAS: Software as a Service
 # INTRODUCTION OF AWS:
-AWS SERVICES:
+AWS offers tools such as compute power, database storage and content delivery services. Amazon.com Web Services launched its first web services in 2002 from the internal infrastructure that the company built to handle its online retail operations. In 2006, it began offering its defining IaaS services. There are different services provided by AWS:
 1. EC2-Elastic Cloud Computing
 2. EBS-Elastic Block Store
 3. Auto scaling
@@ -86,7 +86,7 @@ AWS SERVICES:
 15. NOW GO TO SESSION AND CLICK ON OPEN
 16. YOUR VM IS CREATED.
 TO OPEN A WEB SERVER---
-1.TYPE ON GOOGLE HOW TO INSTALL WEB SERVER IN YOUR OS WHICH YOU HAVE SELECTED.
-2.NOW DOWNLOAD ANY WEB SERVER LIKE APACHE2ETC.
-3.FROM THAT INSTALL APACHE2 IN YOUR VM
+a.TYPE ON GOOGLE HOW TO INSTALL WEB SERVER IN YOUR OS WHICH YOU HAVE SELECTED.
+b.NOW DOWNLOAD ANY WEB SERVER LIKE APACHE2ETC.
+c.FROM THAT INSTALL APACHE2 IN YOUR VM
 TYPE :
