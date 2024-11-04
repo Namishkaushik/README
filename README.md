@@ -59,15 +59,15 @@ Semiconductor chips (also known as integrated circuits or ICs) are crucial compo
 3.SAAS: Software as a Service
 # INTRODUCTION OF AWS:
 AWS SERVICES:
-1.EC2-Elastic Cloud Computing
-2.EBS-Elastic Block Store
-3.Auto scaling
-4.S3-Simple Storage Services
-5.ELB-Elastic Load Balancer
-6.IAM-Identity and Access Management
-7.VPC – Virtual Private Cloud
-8.DNS Route 53 - DNS
-9.RDS – Relational Database Service
+1. EC2-Elastic Cloud Computing
+2. EBS-Elastic Block Store
+3. Auto scaling
+4. S3-Simple Storage Services
+5. ELB-Elastic Load Balancer
+6. IAM-Identity and Access Management
+7. VPC – Virtual Private Cloud
+8. DNS Route 53 - DNS
+9. RDS – Relational Database Service
 # Creating VM and adding web server on AWS
 1. CREATE AN AWS ACCOUNT
 2. THEN GO TO CONSOLE WHERE YOU FIND EC2.
