@@ -8,31 +8,26 @@ In computer science, storage is the process of capturing and preserving digital 
 # Fullstack Development
 A Fullstack developer is proficient in both frontend and backend technologies. This combined skill set allows developers to create fully integrated web applications.
 # Networking:
-#3.1 Local area network (LAN): A LAN covers a small geographic area suvh as a home, office or campus.
-#3.2 Wide Area Network (WAN) :
-A WAN spans a large geographic like multipke cities or countries.
-#3.3 NIC (Network Interface Card)
-A network interface card (NIC) is a hardware component, typically a circuit board or chip, installed on a computer so it can connect to a network. Modern NICs provide functionality to computers, such as support for input/output interrupt, direct-memory access interfaces, data transmission, network traffic engineering and partitioning.
+Local area network (LAN): A LAN covers a small geographic area suvh as a home, office or campus.
+Metropolitan Area Network(MAN) : A computer network that connects computers within a metropolitan area. MANs are larger than Local Area Networks (LANs) but smaller than Wide Area Networks (WANs)
+Wide Area Network (WAN) : A WAN spans a large geographic like multipke cities or countries.
+NIC (Network Interface Card) : A network interface card (NIC) is a hardware component, typically a circuit board or chip, installed on a computer so it can connect to a network. Modern NICs provide functionality to computers, such as support for input/output interrupt, direct-memory access interfaces, data transmission, network traffic engineering and partitioning.
 # Operating Systems
 An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs. Kernel: The core part of the OS that manages system resources. OS Layer: Abstracts hardware resources for higher-level software. Applications: Programs that run on top of the OS. CISC & RISC: Two primary CPU instruction set architectures. Virtual Machine: An emulation of a computer system.
 # Bare Metal
 Bare metal refers to a physical computer server that's dedicated to a single user, or tenant. It can also refer to a computer's hard disk, or a virtualization environment that runs without a host operating system.
 # Ethernet
 Ethernet is a wired computer networking technology that allows devices to communicate with each other over a local area network (LAN), metropolitan area network (MAN), or wide area network (WAN).
-
 # Virtual Machine
 A virtual machine (VM) is a software-based computer that functions like a physical computer, but exists within another computer's operating system. In cloud computing, VMs are used to virtualize the resources of cloud service providers' servers. This allows multiple customers to share resources, which is known as multi-tenant cloud architecture.
-
-Virtualization and Cloud
+# Virtualization and Cloud
 Virtualization allows multiple operating systems to run on the same physical hardware, facilitated by a hypervisor. The cloud enables on-demand availability of computing resources.
-
-Blockchain abd Cryptocurrencies
+# Blockchain abd Cryptocurrencies
 Blockchain technology records and confirms cryptocurrency trades, like a digital ledger. It collects and stores information about buying, selling, or exchanging digital assets. This information exists without a central authority (such as a bank) overseeing or controlling the cryptocurrency market.
+# Programming and Development
+Compiler Converts high-level code into machine code. Interpreter: Executes code line by line. Algorithms: Step-by-step procedures for solving problems. Data Structures: Ways to organize and store data efficiently. DSA (Data Structures & Algorithms): Crucial for performance optimization in software development.
 
-Programming and Development
-Compiler: Converts high-level code into machine code. Interpreter: Executes code line by line. Algorithms: Step-by-step procedures for solving problems. Data Structures: Ways to organize and store data efficiently. DSA (Data Structures & Algorithms): Crucial for performance optimization in software development.
-
-Open Source
+# Open Source
 Open source refers to software whose source code is made available to the public for anyone to view, use, modify, and distribute. This model promotes collaboration and transparency, allowing a community of developers and users to contribute to the software’s development and improvement.
 
 Closed Source
