@@ -312,15 +312,11 @@ docker run --name docker-nginx -p 80:80 -d -v ~/docker-nginx/html:/usr/share/ngi
 
 ###   Amozon Machine Image (AMI)<br/>
 
-###   Instance type<br/>
-
-###   t3.xlarge<br/>
+###   Instance type - t3.xlarge<br/>
   
 ###   AND <br/>
 
-###   STORAGE<br/>
-
-###   30GB<br/>
+###   STORAGE - 30GB<br/>
 
 ###   NETWORK SETTING YOU CAN INCLUDE<br/>
 
